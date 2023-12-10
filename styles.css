@@ -1,0 +1,59 @@
+#title {
+    font-size: 400%;
+    width: 60vmax;
+  }
+body{
+ color: white;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+ background-position: top;
+ background-image:url(http://bit.ly/2gPLxZ4);
+ width: 100%;
+ height: 100%;
+ font-family: Arial, Helvetica;
+ letter-spacing: 0.02em;
+  font-weight: 400;
+ -webkit-font-smoothing: antialiased; 
+}
+
+.center {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+  }
+
+#image {
+    max-width: 100%;
+    min-width: 70%;
+    height: auto;
+    display: block;
+  }
+
+
+  @media only screen and (min-width:480px)
+  {
+
+  }
+
+  @media only screen and (min-width:767px)
+  {
+
+  }
+
+  @media only screen and (min-width:991px)
+  {
+
+  }
+
+  @media only screen and (min-width:1200px)
+  {
+ .font {
+    padding: 0px 200px 15px 200px;
+        }
+  }
+
+  @media(orientation: landscape)
+  {
+
+  }
